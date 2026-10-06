@@ -29,7 +29,7 @@ I am a Governance, Risk, and Compliance analyst passionate about helping organiz
 ---
 
 ### 📫 Let's Connect
-* 💼 [LinkedIn Profile]www.linkedin.com/in/patrick-mohlala-com
+* 💼 [LinkedIn Profile: www.linkedin.com/in/patrick-mohlala-com
 * 📧 Email: Vusi1688@gmail.com 
 
 ---

@@ -1,30 +1,37 @@
 # 👋 Hi, I'm Patrick Mohlala
-### GRC Analyst | ISO 27001:2022 | POPIA Compliance Specialist | IT Risk Analyst
 
-📍 **Location:** Johannesburg, Gauteng, South African 
-💼 **Portfolio Focus:** Enterprise ISMS Implementation, POPIA Regulatory Governance, ISO 27005 Risk Quantification, Vendor TPRM & ISO 27035 Incident Response  
+### 🛡️ Lead GRC Analyst | ISO 27001 | SOC 2 | GDPR | NIST CSF 2.0
 
----
-
-## 🛠️ Core Competencies & Frameworks
-- **Frameworks & Standards:** ISO/IEC 27001:2022, ISO 27005 (Risk), ISO 27035 (IR), ISO 27002, NIST CSF 2.0
-- **Regulatory Compliance:** POPIA (Protection of Personal Information Act), National Health Act, FSCA Joint Standards
-- **GRC Tooling & Skills:** Risk Scoring (Likelihood x Impact), Control Mapping, Gap Analysis, Vendor Security Assessment Questionnaires (VSAQ), Chain-of-Custody Evidence Logging, Policy Documentation
+I am a Governance, Risk, and Compliance analyst passionate about helping organizations build mature security programs, pass audits, and reduce enterprise risk exposure.
 
 ---
 
-## 📂 Featured Hands-On GRC Portfolio
-> **Case Study Scope:** MediCare Connect (Pty) Ltd — Simulated 45-Person Healthcare Enterprise in Johannesburg
+### 🌍 Featured International Portfolio Projects
 
-| Project | Key Standards | Key Outcome | Link |
-| :--- | :--- | :--- | :--- |
-| **01. ISMS Compliance Program** | ISO 27001:2022 / POPIA | Assessed 20 controls; identified 12 gaps & built 4-month remediation roadmap | [View Project](./GRC-Portfolio/tree/main/01-Mini-Compliance-Program) |
-| **02. Quantitative Risk Register** | ISO 27005:2022 / ISO 31000 | Evaluated 18 risks (5 Critical); quantified R11.25M exposure; 56% risk reduction | [View Project](./GRC-Portfolio/tree/main/02-Risk-Register) |
-| **03. Vendor Risk Governance (TPRM)** | ISO 27001 A.5.19–22 / POPIA S21 | Built 25-Q VSAQ, POPIA Operator Agreement & scored critical pathology lab vendor | [View Project](./GRC-Portfolio/tree/main/03-Vendor-Assessment) |
-| **04. Incident Response & Breach Plan** | ISO 27035:2023 / POPIA S22 | 6-Phase IR Plan, 72h POPIA workflow & Tabletop exercise ("Operation Patient Zero") | [View Project](./GRC-Portfolio/tree/main/04-Incident-Response-Plan) |
+🔹 **[NovaPay Inc. — Enterprise Risk Assessment (B2B Fintech)](https://github.com/vusi1688-boop/novapay-grc-risk-assessment)**  
+*End-to-end risk assessment, risk register, data flow analysis, vendor evaluation, and executive reporting for a simulated 120-person B2B Fintech SaaS. Aligned to ISO 27001:2022, NIST CSF 2.0, SOC 2 TSC, and GDPR.*
+
+🔹 **[GRC Portfolio — Healthcare Compliance](https://github.com/vusi1688-boop/GRC-Portfolio-)**  
+*Hands-on GRC portfolio covering ISO 27001, POPIA compliance, risk assessment, vendor management, and internal audit documentation.*
 
 ---
 
-## 📬 Connect With Me
-- 💼 **LinkedIn:** [Patrick Mohlala on LinkedIn](https://www.linkedin.com/in/patrick-mohlala-445b1319a/)
-- 📧 **Email:** vusi1688@gmail.com
+### 🎓 Certifications & Education
+* ✅ **ISC2 Certified in Cybersecurity (CC)**
+* 🎯 CompTIA Security+ (In Progress)
+* 🎯 ISO 27001 Lead Implementer (Planned)
+
+---
+
+### 💼 Core Competencies
+`Risk Assessment & Register Management` · `ISO 27001:2022 Implementation` · `GDPR Compliance` · `SOC 2 Audit Readiness` · `NIST CSF 2.0 Mapping` · `Vendor Risk Management` · `Incident Response Planning` · `Executive Reporting`
+
+---
+
+### 📫 Let's Connect
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-url)
+* 📧 Email: your.email@example.com
+
+---
+
+*"Building security programs that unlock enterprise business value."*

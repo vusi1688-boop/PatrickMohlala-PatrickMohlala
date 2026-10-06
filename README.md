@@ -18,18 +18,10 @@ I am a Governance, Risk, and Compliance analyst passionate about helping organiz
 
 ### 🎓 Certifications & Education
 * ✅ **Office Administration**
-* 🎯 Diploma in ISO 27001:2022 - Information Security Management System (ISMS)
-
-Alison
-* Diploma in GDPR and Data Protection
-
-Alison
-* Demystifying PCI-DSS - A Beginner's Guide to Certification
-
-Alison
-* Introduction to Cybersecurity
-
-Cisco Networking Academy
+* 🎯 Diploma in ISO 27001:2022 - Information Security Management System (ISMS) Alison
+* Diploma in GDPR and Data Protection Alison
+* Demystifying PCI-DSS - A Beginner's Guide to Certification Alison
+* Introduction to Cybersecurity Cisco Networking Academy
 
 ---
 
